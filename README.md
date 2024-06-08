@@ -4,8 +4,6 @@
 
 ## Preview
 
-
-
 ## Project walkthrough
 
 1. Type a search term and then click on Search.
